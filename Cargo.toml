@@ -6,7 +6,7 @@ edition = "2018"
 license = "MIT OR Apache-2.0"
 description = "A simple library to build portable serverless functions"
 repository = "https://github.com/rajeshkannan/functions.git"
-keywords = ["serverless", "functions", "aws", "azure", "cloudrun", "cloud", "lambda"]
+keywords = ["serverless", "functions", "azure", "cloud", "lambda"]
 categories = ["web-programming"]
 readme = "README.md"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
